@@ -13,7 +13,7 @@ b.  Cara menjalankannya:
     3.  pergi ke phpmyadmin <br />
     4.  buat database dengan nama mahasiswa dan tabel data_buku <br /> 
     5.  lalu buat field id (primary key, auto increment, int[11]), nama_peminjam(varchar[50]), judul_buku(varchar[50]), tgl_pinjam(datetime) <br />
-    6.  atau bisa juga dengan import database pada file data_buku.sql <br /> 
+    6.  atau bisa juga dengan import database pada file kuliah.sql <br /> 
     6.  lalu jalankan aplikasi dengan http://localhost/percobaan5 atau sesuai nama folder dengan mengakses index.php <br />
 
 c.  Design database: <br />
