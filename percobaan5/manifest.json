@@ -1,0 +1,30 @@
+{
+    "name": "Progressive Web App sederhana",
+    "short_name": "PWA Sederhana",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ccc",
+    "theme_color": "#5FAAE5",
+    "icons": [{
+            "src": "./images/icons/app-icon-96x96.jpg",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/icons/app-icon-144x144.jpg",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/icons/app-icon-256x256.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/icons/app-icon-512x512.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
