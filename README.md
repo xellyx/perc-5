@@ -17,5 +17,6 @@ b.  Cara menjalankannya:
     6.  lalu jalankan aplikasi dengan http://localhost/percobaan5 atau sesuai nama folder dengan mengakses index.php
 
 c.  Design database:
-    
+    ![Screenshot 2022-11-27 143926](https://user-images.githubusercontent.com/79205130/204124436-86d52eb8-5bf3-44c2-a8ca-92b9f8bdfdba.png)
+
 d.  
