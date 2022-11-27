@@ -1,9 +1,9 @@
 # perc-5
 PERCOBAAN 5 PRAKTIKUM PEMROGRAMAN WEB
 
-Nama: Yusuf Rizky Yuhansyah
-NPM: 2015061062
-PSTI B
+Nama: Yusuf Rizky Yuhansyah <br />
+NPM: 2015061062 <br /> 
+PSTI B <br />
 
 a.  Jadi proyek yang saya buat berfungsi untuk memasukkan data buku, yang dimana didalamnya terdapat fungsi untuk menbambah data buku, mengedit data buku, melihat data buku, dan menghapus data buku.
 
