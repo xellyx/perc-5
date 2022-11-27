@@ -1,6 +1,9 @@
 # perc-5
 PERCOBAAN 5 PRAKTIKUM PEMROGRAMAN WEB
 
+Nama: Yusuf Rizky Yuhansyah
+NPM: 2015061062
+PSTI B
 
 a.  Jadi proyek yang saya buat berfungsi untuk memasukkan data buku, yang dimana didalamnya terdapat fungsi untuk menbambah data buku, mengedit data buku, melihat data buku, dan menghapus data buku.
 
@@ -14,5 +17,5 @@ b.  Cara menjalankannya:
     6.  lalu jalankan aplikasi dengan http://localhost/percobaan5 atau sesuai nama folder dengan mengakses index.php
 
 c.  Design database:
-
+    
 d.  
